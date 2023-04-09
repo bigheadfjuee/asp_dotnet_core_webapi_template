@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "asp.net_core_webapi_template": {
+    "asp_dotnet_core_webapi_template": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
