@@ -1,4 +1,4 @@
-namespace asp_dotnet_core_webapi_template.Models;
+namespace webapi.Models;
   public class User
 {
   public int Id { get; set; }

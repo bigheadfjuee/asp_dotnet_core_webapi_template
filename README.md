@@ -23,3 +23,15 @@ dotnet ef migrations add InitialCreate
 dotnet ef migrations add init --context YourProjectContext
 
 dotnet ef database update --context YourProjectContext
+
+## JWT : JSON Web Token
+
+dotnet user-jwts create
+
+參考 [https://learn.microsoft.com/zh-tw/aspnet/core/security/authentication/jwt-authn?view=aspnetcore-8.0&tabs=windows]
+
+## Swagger
+
+[https://localhost:7212/swagger]
+
+[http://localhost:5161/swagger]
